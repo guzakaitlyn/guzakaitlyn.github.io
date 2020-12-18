@@ -2,8 +2,6 @@
 
 Analyst
 
-guzakaitlyn.github.io
-
 I am an experienced analyst skilled in data mapping, statistical coding, and data management. I am a strong analytical professional with
 a Bachelor's Degree focused in Mathematics and Statistics from Penn State University. Currently I am working toward a Master of Science in Applied 
 Statistics at Villanova University taking courses on clinical data trials and statistical programming. I have previously worked for a 
